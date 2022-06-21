@@ -1,7 +1,10 @@
 ### Hi Techies 👋💻
 ![](https://visitor-badge.glitch.me/badge?page_id=JDevZone.JDevZone)
 
-## Git Stats 📊
+<img align="left" alt="GIF" src="https://github.com/JDevZone/JDevZone/blob/main/binary.gif?raw=true" width="500" height="320" />
+<br>
+
+<p align="center"> Git Stats 📊</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JDevZone&show_icons=true&theme=gotham" alt="JDevZone" />
 

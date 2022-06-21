@@ -1,5 +1,4 @@
-### Hi Techies 👋💻
-![](https://visitor-badge.glitch.me/badge?page_id=JDevZone.JDevZone)
+### Hi Techies 👋💻  <p align="center">![](https://visitor-badge.glitch.me/badge?page_id=JDevZone.JDevZone) </p>
 
 <p align="center"> <img align="center" alt="GIF" src="https://github.com/JDevZone/JDevZone/blob/main/binary.gif?raw=true" width="600" height="320" /> </p>
 

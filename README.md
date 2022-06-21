@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" alt="GIF" src="https://github.com/JDevZone/JDevZone/blob/main/binary.gif?raw=true" width="600" height="320" /> </p>
+<p align="center"> <img align="center" alt="GIF" src="https://github.com/JDevZone/JDevZone/blob/main/binary.gif?raw=true" width="600" height="350" /> </p>
 
 ###    <p align="center">![](https://profile-counter.glitch.me/JDevZone.JDevZone/count.svg) </p>
 

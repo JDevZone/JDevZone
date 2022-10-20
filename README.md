@@ -5,6 +5,7 @@
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JDevZone&show_icons=true&theme=gotham" alt="JDevZone" />
 
+ ![Snake animation](https://github.com/bhattaman0001/bhattaman0001/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **JDevZone/JDevZone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
